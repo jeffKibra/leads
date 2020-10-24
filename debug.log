@@ -1,0 +1,477 @@
+[0422/090023.649:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0422/090023.899:ERROR:exception_snapshot_win.cc(98)] thread ID 5996 not found in process
+[0504/191347.733:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0514/094359.233:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0515/214734.577:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0517/173026.613:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0606/142920.893:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0611/104747.045:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0613/195935.925:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0616/112011.892:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0719/135424.993:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0724/193838.174:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0727/155930.599:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0731/154035.172:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0821/135350.033:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0826/173116.031:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73150f48 of 92 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.424:WARNING:pe_image_reader.cc(281)] could not read version info from C:\Windows\SYSTEM32\WINMM.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ac0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x759a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76c10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[0826/173116.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76d80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[0826/173116.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x32e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0826/173116.512:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.512:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[0826/173116.512:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76e50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.512:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[0826/173116.512:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75740000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.512:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[0826/173116.512:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76ef0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.512:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[0826/173116.513:ERROR:process_memory_win.cc(73)] ReadMemory at 0x756f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.514:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[0826/173116.514:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.514:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[0826/173116.514:ERROR:process_memory_win.cc(73)] ReadMemory at 0x755f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.514:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x746c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6b670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ed0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x559f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\UIAutomationCore.DLL
+[0826/173116.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d320000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.515:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0826/173116.516:ERROR:process_memory_win.cc(73)] ReadMemory at 0x58f30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.516:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0826/173116.516:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.516:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[0826/173116.516:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.516:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[0826/173116.516:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.516:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0826/173116.516:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6bd80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6fa20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x72240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x773a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0826/173116.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ab0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.517:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x950000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.518:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x950000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.518:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77730000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.518:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77730000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.518:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76b70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.518:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNEL32.DLL
+[0826/173116.518:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76b70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNEL32.DLL
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNELBASE.dll
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNELBASE.dll
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x79970000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome_elf.dll
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x79970000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome_elf.dll
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f4c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0826/173116.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f4c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.519:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcrt.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcrt.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x757c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcryptPrimitives.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x757c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcryptPrimitives.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0826/173116.520:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.520:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ac0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ac0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x759a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[0826/173116.521:ERROR:process_memory_win.cc(73)] ReadMemory at 0x759a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.521:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76c10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76c10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76d80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76d80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.522:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[0826/173116.522:ERROR:process_memory_win.cc(73)] ReadMemory at 0x32e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x32e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76e50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76e50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[0826/173116.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75740000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.523:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75740000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76ef0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76ef0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x756f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x756f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.524:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[0826/173116.524:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.525:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[0826/173116.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x755f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.525:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[0826/173116.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x755f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.525:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[0826/173116.540:ERROR:process_memory_win.cc(73)] ReadMemory at 0x746c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.540:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0826/173116.540:ERROR:process_memory_win.cc(73)] ReadMemory at 0x746c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.540:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0826/173116.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6b670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.541:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0826/173116.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6b670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.541:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0826/173116.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ed0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.541:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0826/173116.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ed0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.541:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0826/173116.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.541:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x559f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\UIAutomationCore.DLL
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x559f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\UIAutomationCore.DLL
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d320000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d320000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0826/173116.542:ERROR:process_memory_win.cc(73)] ReadMemory at 0x58f30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.542:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x58f30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.543:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0826/173116.543:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6bd80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6bd80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6fa20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6fa20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0826/173116.544:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.544:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0826/173116.545:ERROR:process_memory_win.cc(73)] ReadMemory at 0x72240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[0826/173116.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x72240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[0826/173116.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x773a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[0826/173116.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x773a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[0826/173116.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0826/173116.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0826/173116.548:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ab0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.548:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[0826/173116.548:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ab0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173116.548:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x950000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77730000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76b70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNEL32.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNELBASE.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x79970000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome_elf.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f4c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcrt.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x757c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcryptPrimitives.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x73100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ac0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x759a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76c10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76d80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x32e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76e50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75740000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76ef0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x756f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x755f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x746c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6b670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ed0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74fa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x559f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\UIAutomationCore.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d320000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x58f30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6f100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6bd80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6fa20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x72240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x773a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0826/173203.917:ERROR:process_memory_win.cc(73)] ReadMemory at 0x74ab0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173203.917:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2c66000 of 40960 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb9fe000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xbafe000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xbbfe000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xbcfe000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xbe7f000 of 4096 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xbf7e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc53e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc63e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc73e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xca3e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xcb3e000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0xccbf000 of 4096 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x700000 of 560 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x701000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x702000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x703000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x704000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x705000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.389:ERROR:process_memory_win.cc(73)] ReadMemory at 0x706000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x707000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x708000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x709000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x70a000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x70b000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x70c000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x70d000 of 3992 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc0af0 of 25522 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc6eb0 of 660 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7374 of 106 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc73e0 of 810 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc770c of 106 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7778 of 96 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc77e8 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc78d8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc79c0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7ac0 of 114 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7df0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7ed8 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc7fb8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc8150 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.517:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc8238 of 68 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc8cd8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dc8d88 of 142 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dcaa88 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dcab60 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dcac10 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2dd9fa0 of 54 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2ddb4f8 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2ddb8b8 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2ddbde8 of 76 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2ddef98 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2ddf178 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de14c0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de2058 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de5e68 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de5f08 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6048 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6228 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de62c8 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6318 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de63b8 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6408 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6458 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de64a8 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de6fd8 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de70b0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7188 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7218 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de72a8 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de72f0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7578 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de75c0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7650 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7698 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de76e0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7770 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de77b8 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7890 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7ad0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7da0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de7e78 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de8aa0 of 134 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de8b30 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de8df0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de8ea0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2de8fd8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2deb6d8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2def890 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2def940 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2def9f0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defb50 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defc00 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defcb0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.525:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defd60 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defe10 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2defec0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2deff70 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0020 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df00d0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0180 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0230 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df02e0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0390 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0440 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df04f0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df05a0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0650 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df0700 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df3fa0 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2df4260 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2e33140 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2e46560 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2e5c898 of 612 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x529359c of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x9b6b2d4 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc0c7778 of 552 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc0dd5c0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x76b8ec00 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77738010 of 18 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x777c1590 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7784a378 of 24 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7784a714 of 32 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7784cb80 of 36 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x79992b1e of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173204.533:ERROR:process_memory_win.cc(73)] ReadMemory at 0x799931d2 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0826/173205.525:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0826/173216.473:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0831/155951.603:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0903/131743.845:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0904/133247.186:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0905/184157.141:ERROR:settings.cc(320)] Settings magic is not 1129342067
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [1001/164455.854:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1008/115525.383:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1010/151308.991:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1010/165624.786:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1c475d39-9256-48c4-8656-f1f7ad5adb31: The system cannot find the path specified. (0x3)
+[1010/165625.702:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1012/092736.738:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/113821.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/162707.099:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1013/163708.263:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/104120.333:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1c67ad92-b710-4949-9174-d3578e100e04: The system cannot find the path specified. (0x3)
+[1015/104122.805:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1015/114140.351:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\749a2aef-cac9-4a6a-9fca-b13202ee85af: The system cannot find the path specified. (0x3)
+[1015/114141.516:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1016/090956.045:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/090837.755:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/134120.430:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/100524.326:ERROR:settings.cc(320)] Settings magic is not 1129342067
+                                                                                                                    [1020/164307.629:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1020/165308.029:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/181702.960:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\662113ee-8c9e-4170-8faf-ed5aa6bc7d98: The system cannot find the path specified. (0x3)
+[1020/181705.328:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1022/153609.144:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1024/093749.475:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1024/113724.454:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6f963841-8b5a-4cdb-a68b-a60b0491985f: The system cannot find the path specified. (0x3)
+[1024/135302.859:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c54a96f5-60de-4622-9459-2feb503bc32e: The system cannot find the path specified. (0x3)
+[1024/162707.368:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\proff\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f5354560-6c7d-44d1-aa4e-531dc9a76bea: The system cannot find the path specified. (0x3)

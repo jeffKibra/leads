@@ -1,0 +1,94 @@
+.main {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+  color: grey;
+}
+
+.timer {
+  position: relative;
+  height: 300px;
+}
+.card-footer {
+  position: absolute !important;
+  bottom: 0;
+  width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+#mydiary {
+  width: 50%;
+}
+#tooltip {
+  background-color: white;
+  color: grey;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+.modalContent {
+  background-color: thistle;
+  color: black;
+}
+.write-btn {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  right: 5%;
+  bottom: 8%;
+  width: 50px !important;
+  height: 50px !important;
+  border-radius: 50%;
+}
+.back-btn {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  left: 1%;
+  bottom: 1%;
+  z-index: 10;
+}
+.footer {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  height: 6%;
+  position: fixed;
+  bottom: 0;
+  color: #f2f2f2;
+}
+
+.header-btn {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+  border: none;
+}
+
+.myBtn {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.unfixed {
+  margin-top: 70px;
+}
+
+/*  //#eeffcc*/
